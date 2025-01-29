@@ -6,5 +6,7 @@ public class crudclass
 	{
 		
 	}
-
+       public void m2()
+	{
+	}
 }
