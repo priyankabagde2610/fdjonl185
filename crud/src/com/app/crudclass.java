@@ -20,5 +20,8 @@ public class crudclass
 	public void m10()
 	{
 	}
+	public void m12()
+	{
+	}
 
 }
