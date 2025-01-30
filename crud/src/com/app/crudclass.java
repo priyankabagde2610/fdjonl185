@@ -17,7 +17,10 @@ public class crudclass
 	public void m9()
 	{
 	}
-	public void m10()
+	public void m11()
+	{
+	}
+	public void m12()
 	{
 	}
 
